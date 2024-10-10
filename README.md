@@ -1,1 +1,2 @@
 # odin-recipes
+This project involes craeting a website using HTML. It also serves to showcase the skills I have acquired thus far with reference to formating of texts, adding links and images, as well as basic layout of said page.
